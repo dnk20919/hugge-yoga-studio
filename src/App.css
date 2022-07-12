@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "NeuchaRegular";
+    src: url(./components/assets/fonts/Neucha-Regular.ttf);
+}
+
+@font-face {
+    font-family: "CaveatMedium";
+    src: url(./components/assets/fonts/Caveat-Medium.ttf);
+}
+
+@font-face {
+    font-family: "CaveatRegular";
+    src: url(./components/assets/fonts/Caveat-Regular.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li {
+    text-transform: uppercase;
+    text-align: center;
+    list-style-type: none;
+}
